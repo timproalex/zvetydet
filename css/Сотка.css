@@ -1,0 +1,274 @@
+.r{
+	height:150px;
+	width:200px;
+	background:url(../img/r.webp);
+	margin-left:100px;
+	background-size: contain;
+	background-size:cover ;
+}
+.rp{
+	margin-left:135px;
+	font-size:25px ;
+}
+.z{
+	text-align: center;
+}
+.ns{
+	font-size:20px;
+}
+.spr{
+	font-size:18px;
+}
+.sr{
+	height:300px;
+	width: 500px;
+	background:url(../img/sr.webp);
+}
+.rk{
+	height:500px;
+	width: 1000px;
+    background: url(../img/rk.jpe);
+    background-size: cover;
+
+}
+.ob{
+	font-size:30px;
+	 color: blue;
+	 transition: 0.7s;
+}
+.ob2{
+	font-size:30px;
+	margin-top: 150px;
+	color: blue;
+	 transition: 0.7s;
+}
+.ro{
+	height:150px;
+	width:200px;
+	background: url(../img/ro.jpg);
+	margin-left:100px;
+	background-size: contain;
+	background-size:cover ;
+}
+.rr{
+	margin-left:165px;
+	font-size:25px ;
+}
+.rvk{
+	background: url(../img/rvk.webp);
+	height: 400px;
+	width: 600px;}
+
+.roz{
+	background: url(../img/roz.webp);
+
+   height: 400px;
+	width: 600px;
+	background-size: contain;
+	background-size:cover ;
+}
+.t{
+	height:150px;
+	width:200px;
+	background: url(../img/t.webp);
+	margin-left:100px;
+	background-size: contain;
+	background-size:cover ;
+}
+.tp {
+	margin-left:150px;
+	font-size:25px ;
+}
+.lt{
+	background: url(../img/lt.webp);
+	height: 300px;
+    width:600px;
+    background-size: contain;
+    background-size: cover;
+}
+.p{
+	font-size:14px;
+	opacity: 80%;
+}
+.tu{
+	background: url(../img/tu.webp);
+	height:300px;
+	width: 500px;
+	background-size: contain;
+	background-size: cover;
+}
+.od{
+	height:150px;
+	width:200px;
+	background: url(../img/od.webp);
+	margin-left:100px;
+	background-size: contain;
+	background-size:cover ;
+}
+.odu{
+	background: url(../img/odu.jpg);
+	height: 300px;
+	width: 700px;
+	background-size: contain;
+	background-size: cover;
+}
+.sem{
+	background: url(../img/sem.jpg);
+	height: 250px;
+	width: 350px;
+	background-size: contain;
+	background-size: cover;
+}
+.kon{
+	margin-top:100px;
+}
+.menu{
+	width:100%;
+	height:100px;
+	background:green;
+	padding: 5px;
+	
+	
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	background: url(../img/cv.webp);
+	background-size: contain;
+	background-size: cover;
+	display: inline-block;
+	
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #000eff;
+	transition: 1s;
+	text-align:center;
+	color:black;
+}
+.ml{
+	width: 1735px;
+	height: 100px;
+	background: red;
+	display: inline-block;
+	padding: 5px;
+
+}
+a:hover {
+	border-bottom: 2px solid #89ddff;
+	color: #89ddff;
+	border-radius: 10px;
+}
+.av{
+	margin-left: 30px;
+}
+.text{
+	margin: auto;
+}
+.tex{
+	text-align: center;
+	font-size: 30px;
+	margin-top:70px;
+}
+.ne{
+	font-size: 20px;
+	margin-top:100px;
+}
+body{
+	background: url(../img/fon.webp);
+	background-size: contain;
+	background-size: cover;
+}
+.me{
+	text-align: center;
+	
+}
+.qwerty{
+	text-align: center;
+	font-size:25px;
+	margin-top: 100px;
+}
+.men{
+	text-align: center;
+	
+}
+.pr{
+	height:450px;
+	width: 450px;
+	margin: auto;
+    background: url(../img/pr.jpg);	
+    background-size: contain;
+	background-size: cover;
+}
+.men1{
+	height: 470px;
+	width: 470px;
+	margin: auto;
+	background: red;
+	padding: 40px;
+}
+.n{
+	font-size:25px;
+	margin-top:50px;
+	background: green;
+	height: 30px;
+	width: 70px;
+}
+.rom{
+	background: url(../img/rom.webp);
+	width: 100%;
+	height: 1000px;
+	background-size: contain;
+    background-size: cover;	
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.rosy{
+	background: url(../img/rosy.jpg);
+	width: 100%;
+	height: 1000px;
+	background-size: contain;
+    background-size: cover;	
+}
+.tul{
+	background: url(../img/tul.jpg);
+	width: 100%;
+	height: 1000px;
+	background-size: contain;
+    background-size: cover;	
+}
+.oduvan{
+	background: url(../img/oduvan.jpg);
+	width: 100%;
+	height: 1000px;
+	background-size: contain;
+    background-size: cover;	
+}
+.up{ margin: auto;
+ background:url(../img/dd.webp);
+  position: fixed;
+   right: 45px;
+   width: 50px;
+   height: 50px;
+   background-size: contain;
+    background-size: cover;	
+   border-radius:25px;
+   transition: 0.7s;
+}
+.up:hover{
+	transform: scale(2);
+}
+.sa{
+	opacity: 0;
+}
+
+}
+.ob:hover{
+	transform: scale(1.5);
+}
+.ob2:hover{
+	transform: scale(1.5);
+}
